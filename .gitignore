@@ -1,0 +1,15 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+.terraform.lock.hcl
+gcp-creds.json
+*_creds.json
+*service_account*.json
+*.pem
+*.key
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
